@@ -1,0 +1,8 @@
+2022-08-08 09:18:36,509 huawei_baseline INFO: Saving model in the path: ./log
+2022-08-08 09:18:41,048 huawei_baseline.train INFO: Using 2 times learning rate for fc
+2022-08-08 09:18:41,049 huawei_baseline.train INFO: Using 2 times learning rate for fc
+2022-08-08 09:18:41,049 huawei_baseline.train INFO: Using 2 times learning rate for fc
+2022-08-08 09:18:41,049 huawei_baseline.train INFO: Using 2 times learning rate for fc
+2022-08-08 09:18:41,049 huawei_baseline.train INFO: Using 2 times learning rate for fc
+2022-08-08 09:18:41,049 huawei_baseline.train INFO: Using 2 times learning rate for fc
+2022-08-08 09:18:41,055 huawei_baseline INFO: use WarmupCosineAnnealingLR, delay_step:30

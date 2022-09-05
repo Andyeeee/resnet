@@ -1,0 +1,1 @@
+2022-08-08 09:53:01,778 huawei_baseline INFO: Saving model in the path: ./log
